@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file Optimizer.cc
  * @author guoqing (1337841346@qq.com)
  * @brief 优化器，所有的优化函数的实现

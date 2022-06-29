@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file ORBVocabulary.h
  * @author guoqing (1337841346@qq.com)
  * @brief 词袋模型相关

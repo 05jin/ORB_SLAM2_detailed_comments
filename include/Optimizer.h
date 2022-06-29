@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file Optimizer.h
  * @author guoqing (1337841346@qq.com)
  * @brief 优化器，所有用到的优化函数的声明都在这个文件中

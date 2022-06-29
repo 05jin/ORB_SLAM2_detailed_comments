@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file KeyFrameDatabase.cc
  * @author guoqing (1337841346@qq.com)
  * @brief 关键帧数据库,用于回环检测和重定位

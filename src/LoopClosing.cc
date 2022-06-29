@@ -1,4 +1,4 @@
-/**
+﻿/**
  * @file LoopClosing.cc
  * @author guoqing (1337841346@qq.com)
  * @brief 回环检测线程
